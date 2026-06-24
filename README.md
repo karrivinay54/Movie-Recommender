@@ -53,3 +53,15 @@ RGUKT IIIT Nuzvid
 
 **similarity.npy not included due to GitHub file size limitations.
 Generate it using the provided notebook.**
+
+
+Download links 
+
+similarity.npy
+https://drive.google.com/file/d/1F_hlFCMftbPoIOCxEKKuUSBe50dsr02L/view?usp=drive_link
+
+tmdb_5000_movies.csv.zip
+https://drive.google.com/file/d/14TsORVmk-KPo7EfME3vq0laW44GBpNrM/view?usp=sharing
+
+tmdb_5000_credits.csv.zip
+https://drive.google.com/file/d/1BIYvL-s7E2MLsr-iCRM9hbY2C1tfMbCu/view?usp=sharing
