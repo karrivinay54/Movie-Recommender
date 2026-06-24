@@ -50,3 +50,6 @@ Karri Vinay
 B.Tech Electronics & Communication Engineering
 
 RGUKT IIIT Nuzvid
+
+**similarity.npy not included due to GitHub file size limitations.
+Generate it using the provided notebook.**
