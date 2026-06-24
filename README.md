@@ -1,5 +1,5 @@
 # Movie-Recommender
-Netflix Style Movie Recommendation System using Machine Learning
+A content-based movie recommendation system that recommends similar movies based on movie metadata using cosine similarity and machine learning techniques.
 
 # Netflix Movie Recommendation System
 
