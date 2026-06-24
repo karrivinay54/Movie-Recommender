@@ -3,12 +3,13 @@ Netflix-style Movie Recommendation System built using Machine Learning, Cosine S
 
 This project was built to explore the practical applications of Machine Learning in recommendation systems. Inspired by platforms like Netflix, I wanted to understand how user preferences can be analyzed to generate personalized content suggestions. Through this project, I gained experience in data preprocessing, feature extraction, similarity-based learning, and web application development using Streamlit. It reflects my growing interest in Machine Learning and AI-driven solutions.
 
-## Project Preview
+### Home Screen
 
-![Home Screen](images/home.png)
+![Home Screen](images/homepage.png)
+
+### Recommendations
 
 ![Recommendations](images/recommendations.png)
-
 ## Features
 
 * Search movies instantly
