@@ -80,7 +80,7 @@ to recommend movies similar to the selected movie.
 - User watchlists
 - Hybrid recommendation system
 
-- ## Skills Gained
+ ## Skills Gained
 
 - Data preprocessing
 - Feature engineering
