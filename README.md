@@ -1,9 +1,13 @@
-# Movie-Recommender
-A content-based movie recommendation system that recommends similar movies based on movie metadata using cosine similarity and machine learning techniques.
-
 # Netflix Movie Recommendation System
+Netflix-style Movie Recommendation System built using Machine Learning, Cosine Similarity, Streamlit, and TMDB API.
 
-A content-based Movie Recommendation System built using Python, Machine Learning, Streamlit, and TMDB API.
+This project was built to explore the practical applications of Machine Learning in recommendation systems. Inspired by platforms like Netflix, I wanted to understand how user preferences can be analyzed to generate personalized content suggestions. Through this project, I gained experience in data preprocessing, feature extraction, similarity-based learning, and web application development using Streamlit. It reflects my growing interest in Machine Learning and AI-driven solutions.
+
+## Project Preview
+
+![Home Screen](images/home.png)
+
+![Recommendations](images/recommendations.png)
 
 ## Features
 
@@ -43,6 +47,26 @@ The system uses:
 
 to recommend movies similar to the selected movie.
 
+## Future Improvements
+
+- IMDb integration
+- Movie ratings display
+- Horizontal Netflix-style carousel
+- Genre-based filtering
+- User watchlists
+- Hybrid recommendation system
+
+- ## Skills Gained
+
+- Data preprocessing
+- Feature engineering
+- Natural Language Processing basics
+- Cosine Similarity
+- Machine Learning workflows
+- API integration
+- Streamlit web development
+- GitHub project management
+
 ## Author
 
 Karri Vinay
@@ -55,13 +79,10 @@ RGUKT IIIT Nuzvid
 Generate it using the provided notebook.**
 
 
-Download links 
+## Additional Downloads
 
-similarity.npy
-https://drive.google.com/file/d/1F_hlFCMftbPoIOCxEKKuUSBe50dsr02L/view?usp=drive_link
+Due to GitHub file size limitations, the following files are hosted on Google Drive:
 
-tmdb_5000_movies.csv.zip
-https://drive.google.com/file/d/14TsORVmk-KPo7EfME3vq0laW44GBpNrM/view?usp=sharing
-
-tmdb_5000_credits.csv.zip
-https://drive.google.com/file/d/1BIYvL-s7E2MLsr-iCRM9hbY2C1tfMbCu/view?usp=sharing
+- similarity.npy : https://drive.google.com/file/d/1F_hlFCMftbPoIOCxEKKuUSBe50dsr02L/view?usp=drive_link
+- tmdb_5000_movies.csv.zip : https://drive.google.com/file/d/14TsORVmk-KPo7EfME3vq0laW44GBpNrM/view?usp=sharing
+- tmdb_5000_credits.csv.zip : https://drive.google.com/file/d/1BIYvL-s7E2MLsr-iCRM9hbY2C1tfMbCu/view?usp=sharing
