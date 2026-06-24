@@ -9,7 +9,7 @@ This project was built to explore the practical applications of Machine Learning
 
 ### Recommendations
 
-![Recommendations](images/recommendations.png)
+![Recommendations](images/Recommendations.png)
 ## Features
 
 * Search movies instantly
