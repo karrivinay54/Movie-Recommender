@@ -1,5 +1,6 @@
 # Netflix Movie Recommendation System
-Netflix-style Movie Recommendation System built using Machine Learning, Cosine Similarity, Streamlit, and TMDB API.
+
+🎬 Netflix-style Movie Recommendation System built using Machine Learning, Cosine Similarity, Streamlit, and TMDB API.
 
 This project was built to explore the practical applications of Machine Learning in recommendation systems. Inspired by platforms like Netflix, I wanted to understand how user preferences can be analyzed to generate personalized content suggestions. Through this project, I gained experience in data preprocessing, feature extraction, similarity-based learning, and web application development using Streamlit. It reflects my growing interest in Machine Learning and AI-driven solutions.
 
@@ -28,6 +29,26 @@ This project was built to explore the practical applications of Machine Learning
 * Streamlit
 * TMDB API
 
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/karrivinay54/Movie-Recommender.git
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application
+
+```bash
+streamlit run app.py
+```
+
 ## Dataset
 
 TMDB 5000 Movies Dataset
@@ -38,6 +59,8 @@ Files Used:
 * tmdb_5000_credits.csv
 
 ## How It Works
+
+The recommendation engine analyzes movie metadata such as genres, keywords, cast, crew, and overview text. These features are transformed using CountVectorizer, and Cosine Similarity is used to identify movies with similar content.
 
 The system uses:
 
@@ -70,11 +93,12 @@ to recommend movies similar to the selected movie.
 
 ## Author
 
-Karri Vinay
+**Karri Vinay**
 
-B.Tech Electronics & Communication Engineering
-
+B.Tech – Electronics & Communication Engineering  
 RGUKT IIIT Nuzvid
+
+GitHub: https://github.com/karrivinay54
 
 **similarity.npy not included due to GitHub file size limitations.
 Generate it using the provided notebook.**
